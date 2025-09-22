@@ -1,4 +1,4 @@
-# Internet das Coisas (IoT) com foco em TinyML
+# Internet das Coisas (IoT) com foco em ML
 
 Este repositório contém os materiais da disciplina **01.803.38 - Internet das Coisas**, ofertada no Mestrado da IFCE.  
 
